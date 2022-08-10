@@ -4,35 +4,11 @@
 
 网址：(http://116.62.132.196/)
 
-B站视频：
+​        本文总结了最近所有基于人工智能的用于处理AVS的技术。这些技术包括但不限于场景理解、运动规划、决策、车辆控制、社会行为和通信。在这篇文献中，我们仅仅关注基于深度学习和强化学习的方法，至于浅层机器学习（ML）的技术则不在我们的研究范围内，因为这个主题在过去已经被广泛提及。通过这些研究，我们顺利建立了关于DL和RL算法的分类。最后，我们还提出了这些方面仍然存在的诸多挑战。最后，我们基于已有的分析，总结出了未来可能的研究方向。
 
-山东大学（威海）数学与统计学院 2019级数据科学与人工智能实验班
+## 技术框架
 
-## 技术栈
+vue、yarn、bulma、echart等；
 
-- Yarn
-- Vue 3
-- Bulma
-- SCSS
-- ECharts
-- Animate.css
+引用参考：https://github.com/lie-flat/cfps-report
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
